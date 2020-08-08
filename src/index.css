@@ -1,0 +1,235 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;1,300;1,800&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif !important;
+  margin-bottom: 40px;
+  padding-right: 0px !important;
+  padding: 0px !important;
+  background-color: #fff !important;
+}
+#map { 
+  position:right !important;
+  margin-left: auto  !important;
+  margin-right: auto  !important;
+   width:50% !important;
+   height: 50%  !important; 
+  display:table-cell;
+  vertical-align: auto !important;
+}
+.marker-btn {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.voluntario{
+  
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 27px;
+text-align: center;
+}
+.container img{
+  max-width: 100%;
+  height: auto;
+}
+.green{
+  color:#31e197;
+}
+.celeste{
+  background-color: #31e197;
+}
+
+.marker-btn img {
+  width: 20px;
+  height: 20px;
+}
+p.description {
+  font-style: italic;
+  font-size: 1.2rem;
+}
+.div.text-center.container {
+  padding-right: 0px !important;
+  padding: 0% !important;
+}
+
+.navbar {
+  background-color: #31e197;
+  font-weight: bold;
+}
+h1.title {
+  color: black;
+  font-size: 40px;
+  font-weight: bold;
+
+  text-align: center;
+  justify-content: center;
+  width: auto;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: auto;
+}
+p.raices {
+  font-size: 5rem;
+}
+.donar {
+  width: 30rem;
+  box-shadow: 0px 2px 10px grey;
+  border: 2px;
+  border-radius: 40px;
+  margin: 30px;
+  transform: rotate(-0.26deg);
+}
+.cards {
+  width: 25rem;
+  box-shadow: 0px 2px 10px grey;
+  border: 2px;
+  border-radius: 40px;
+  margin: 30px;
+  transform: rotate(-0.26deg);
+  justify-content: center;
+  align-content: center;
+}
+.boton-about {
+  width: 250px;
+  height: 50px;
+  margin: 15px;
+  color: #fff;
+  background-color: #0090ff;
+  border-color: #17b85a;
+  border-radius: 50px;
+  border-width: 0ch;
+  transition: all 0.3s ease-out;
+  text-align: center !important;
+  align-items: center !important;
+}
+
+.boton-about:hover {
+  width: 300px;
+  color: black;
+  background-color: #5fea88;
+  border-color: #5fea88;
+  text-align: center !important;
+  align-items: center !important;
+}
+
+.btn-btn {
+  width: 200px;
+  height: 50px;
+  margin: 30px;
+  color: #fff;
+  background-color: #0090ff;
+  border-color: #17b85a;
+  border-radius: 50px;
+  border-width: 0ch;
+  transition: all 0.3s ease-out;
+}
+
+.btn-btn:hover {
+  width: 220px;
+  color: black;
+  background-color: #5fea88;
+  border-color: #5fea88;
+  text-align: center !important;
+  align-items: center !important;
+}
+
+.btn-tarjeta {
+  width: 100px;
+  height: 50px;
+  margin: 30px;
+  color: #fff;
+  background-color: #0090ff;
+  border-color: #17b85a;
+  border-radius: 50px;
+  border-width: 0ch;
+  transition: all 0.3s ease-out;
+}
+
+.btn-tarjeta:hover {
+  width: 100px;
+  color: black;
+  background-color: #5fea88;
+  border-color: #5fea88;
+}
+
+.boton-arriba {
+  border-radius: 20rem;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 0;
+  margin-right: 30px;
+  margin-bottom: 30px;
+  width: 50px;
+  height: 50px;
+  background-color: #0090ff;
+  color: #fff;
+  border-color: #0090ff;
+  border-width: 0ch;
+  transition: all 0.3s ease-out;
+}
+.boton-arriba:hover {
+  width: 70px;
+  background-color: #0090ff;
+  border-color: #0090ff;
+}
+
+.section1 {
+  align-items: center;
+}
+
+.section1 h1,
+h2,
+p {
+  text-align: center;
+}
+
+.col-sec1 {
+  margin-top: 150px;
+}
+
+.section2 {
+  background-color: #e8fdff;
+}
+
+.section3 {
+  background-color: #fff;
+}
+
+.section4 {
+  background-color: #e8fdff;
+}
+
+.redes {
+  margin: 20px;
+}
+
+footer {
+  background-color: #17b85a;
+  color: #fff;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+}
+
+img.icon {
+  width: 15rem;
+  text-size-adjust: 50%;
+}
+
+.div.text-center.jumbotron {
+  width: 25rem;
+}
+
+.jumbotron {
+  background-color: #fff !important;
+  box-shadow: 0px 2px 10px grey;
+  border: 2px;
+  border-radius: 40px;
+  margin: 30px;
+  transform: rotate(-0.26deg);
+}
