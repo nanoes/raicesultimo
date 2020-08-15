@@ -29,7 +29,7 @@ const Mapbox = () => {
     }, []);
 
     return (
-        <div>
+        <div className="map">
             <ReactMapGL
                 {...viewport}
                 mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}

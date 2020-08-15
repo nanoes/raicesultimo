@@ -7,7 +7,7 @@ import donar from "../images/donation.svg";
 const Donar = () => {
   return (
     <>
-      <section id="donar" className="section2">
+      <section id="donar" className="section2 ">
         <h1 className="title"></h1>
         <Container>
           <Jumbotron className="text-center">
