@@ -2,7 +2,7 @@ import React from "react";
 import Container from "react-bootstrap/Container";
 import Jumbotron from "react-bootstrap/Jumbotron";
 import Card from "react-bootstrap/Card";
-import Col from "react-bootstrap/Row";
+/* import Col from "react-bootstrap/Row"; */
 import donar from "../images/donation.svg";
 const Donar = () => {
   return (

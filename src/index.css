@@ -39,9 +39,18 @@ text-align: center;
   color:#31e197;
 }
 .celeste{
-  background-color: #31e197;
+  background-color:#E8FDFF;
 }
-
+.list{
+  position: right;
+width: 138px;
+height: 594px;
+}
+hr {
+  height: 10px;
+  width: 50%;
+  background-color: black;
+}
 .marker-btn img {
   width: 20px;
   height: 20px;

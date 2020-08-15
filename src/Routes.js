@@ -13,13 +13,13 @@ import Coordinadores from "./componentes/Coordinadores";
 import Voluntarios from "./componentes/Voluntarios";
 import Comedores from "./componentes/Comedores";
 import Lista from "./componentes/Lista";
-/* import Tarjeta from "./componentes/Tarjeta"; */
+import Tarjeta from "./componentes/Tarjeta";
 
 import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Redirect
+  /* Redirect */
 } from "react-router-dom";
 
 function Routes() {
@@ -57,7 +57,7 @@ function Routes() {
             <>
               <Comedores />
               <Lista />
-              {/* <Tarjeta/> */}
+              <Tarjeta/>
               <Mapbox />
               <Footer />
 

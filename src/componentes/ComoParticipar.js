@@ -1,8 +1,8 @@
 import React from "react";
-import Container from "react-bootstrap/Container";
+/* import Container from "react-bootstrap/Container"; */
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
-import Button from "react-bootstrap/Button";
+/* import Button from "react-bootstrap/Button"; */
 import Card from "react-bootstrap/Card";
 import voluntario from "../images/voluntariado.png";
 import donar from "../images/maps.png";
